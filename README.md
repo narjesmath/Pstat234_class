@@ -1,1 +1,1 @@
-# Pstat234_a2
+# Pstat234 Statistical Data Science
